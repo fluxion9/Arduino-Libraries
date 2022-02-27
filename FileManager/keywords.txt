@@ -1,0 +1,6 @@
+FileManager	KEYWORD1
+readLine 	KEYWORD2
+countLines	KEYWORD2
+sizeOfFile	KEYWORD2
+filename	LITERAL1
+FM		KEYWORD1
